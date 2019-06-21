@@ -7,11 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+A user will be able to determine whether the hardware in their computer can run a certain game in minimum/maximum settings. Users can use this before they purchase a game to determine if they should buy the or buy new hardware. This is an issue I have when looking at new games, whether they can run on my pc or not so I'm trying to fix that.
+
 ### Features
-Include Features here
+
+user login
+compare user's hardware and game specs
+Recommend different hardware depending user's specs
+
 ### Technologies
-Include Technologies here
+
+Java
+Spring
+api
+Javascript
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll need to know how to work with an api so I will need to learn about Javascript and maybe another language.
